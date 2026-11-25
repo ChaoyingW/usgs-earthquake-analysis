@@ -1,7 +1,10 @@
 # usgs-earthquake-analysis
 Python script that analyzes real USGS earthquake data
 
+![Magnitude histogram](magnitude_histogram.png)
+
 ## What It Does
+
 Reads a month of real worldwide earthquake data from the USGS and reports:
 - Total number of earthquakes
 - Largest magnitude and where it happened
