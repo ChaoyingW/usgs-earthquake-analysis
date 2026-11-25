@@ -15,6 +15,9 @@ Reads a month of real worldwide earthquake data from the USGS and reports:
 2. Put `all_month.csv` in the same folder as `Lesson_13_largest_quake.py`.
 3. Run `python Lesson_13_largest_quake.py`
 
+## Draw the Histogram
+Run `python Lesson_14_histogram.py` to draw the magnitude histogram shown above. It needs matplotlib: `py -m pip install matplotlib`
+
 ## Sample Output
 - Total earthquakes: 9528
 - Largest magnitude: 6.8
