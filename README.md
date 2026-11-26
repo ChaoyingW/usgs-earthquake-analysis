@@ -36,3 +36,10 @@ ChaoyingW, learning Python
 
 Count earthquakes by region and draw a bar chart. Run Lesson_16_regions.py (needs pandas and matplotlib).
 
+## Files
+
+- `Lesson_13_largest_quake.py`: finds the largest earthquake using csv.DictReader
+- `Lesson_14_histogram.py`: draws the magnitude histogram with matplotlib
+- `Lesson_15_pandas.py`: the same analysis with pandas, plus the top 5 largest earthquakes
+- `Lesson_16_regions.py`: counts earthquakes by region, cleans "CA" to "California", and draws the top 10 chart
+
