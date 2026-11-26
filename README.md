@@ -29,3 +29,10 @@ Reading CSV files with `csv.DictReader`, `try/except`, lists, tracking a maximum
 
 ## Author
 ChaoyingW, learning Python
+
+## Top 10 Regions
+
+![Top 10 regions](top10_regions.png)
+
+Count earthquakes by region and draw a bar chart. Run Lesson_16_regions.py (needs pandas and matplotlib).
+
