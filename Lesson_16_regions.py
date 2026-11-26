@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 
 df = pd.read_csv("all_month.csv")
 df["region"] = df["place"].str.split(", ").str[-1]
+df["region"] = df["region"].replace("CA", "California")
 top10 = df["region"].value_counts().head(10)
 print(top10)
 
