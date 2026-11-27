@@ -43,3 +43,5 @@ Count earthquakes by region and draw a bar chart. Run Lesson_16_regions.py (need
 - `Lesson_15_pandas.py`: the same analysis with pandas, plus the top 5 largest earthquakes
 - `Lesson_16_regions.py`: counts earthquakes by region, cleans "CA" to "California", and draws the top 10 chart
 
+- `Lesson_17_levels.py`: groups earthquakes into Safe, Warning and Alert levels and draws a bar chart
+- `Lesson_18_california.py`: finds which places in California have the most earthquakes (The Geysers is first)
